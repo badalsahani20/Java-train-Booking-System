@@ -1,0 +1,25 @@
+[ {
+  "trainId" : 1,
+  "trainName" : "Express A",
+  "source" : "City A",
+  "destination" : "City B",
+  "totalSeats" : 100,
+  "availableSeats" : 48,
+  "price" : 120.0
+}, {
+  "trainId" : 2,
+  "trainName" : "Express B",
+  "source" : "City B",
+  "destination" : "City C",
+  "totalSeats" : 80,
+  "availableSeats" : 30,
+  "price" : 150.0
+}, {
+  "trainId" : 3,
+  "trainName" : "Superfast C",
+  "source" : "City D",
+  "destination" : "City E",
+  "totalSeats" : 120,
+  "availableSeats" : 70,
+  "price" : 200.0
+} ]
